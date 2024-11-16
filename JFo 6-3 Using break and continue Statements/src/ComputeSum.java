@@ -6,7 +6,7 @@ public class ComputeSum {
 
     	Scanner sc = new Scanner(System.in);
     	
-    	int num =0;
+    	int num =-1;
     	int sum = 0;
     	
     	for(int i =0; i < 10; i++) {

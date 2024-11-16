@@ -4,6 +4,7 @@ public class Divisors {
 
     public static void main(String args[]) {
 
+    	//works 
          Scanner console = new Scanner(System.in);
          
         System.out.print("Enter the number :  ");
